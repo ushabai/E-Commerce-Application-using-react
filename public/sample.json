@@ -1,0 +1,114 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Floral Summer Dress",
+      "price": 1299,
+      "category": "Dresses",
+      "sizes": ["S", "M", "L", "XL"],
+      "inStock": true,
+      "description": "Lightweight floral dress perfect for summer outings.",
+      "rating": 4.5,
+      "image": "/images/dress.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Elegant Black Saree",
+      "price": 1999,
+      "category": "Sarees",
+      "sizes": ["Free Size"],
+      "inStock": true,
+      "description": "A classic black saree with golden border detailing.",
+      "rating": 4.7,
+      "image": "/images/saree.png"
+    },
+    {
+      "id": 3,
+      "title": "Cotton Kurti",
+      "price": 799,
+      "category": "Kurtis",
+      "sizes": ["S", "M", "L"],
+      "inStock": false,
+      "description": "Breathable cotton kurti with traditional prints.",
+      "rating": 4.2,
+      "image": "/images/kurta.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Casual Palazzo Pants",
+      "price": 699,
+      "category": "Bottom Wear",
+      "sizes": ["M", "L", "XL"],
+      "inStock": true,
+      "description": "Soft rayon palazzo pants with an elastic waistband.",
+      "rating": 4.0,
+      "image": "/images/plazzo.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Denim Jacket",
+      "price": 1499,
+      "category": "Outerwear",
+      "sizes": ["S", "M", "L", "XL"],
+      "inStock": true,
+      "description": "Trendy denim jacket with button-up front.",
+      "rating": 4.6,
+      "image": "/images/jacket.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Anarkali Suit",
+      "price": 2199,
+      "category": "Ethnic Wear",
+      "sizes": ["M", "L"],
+      "inStock": false,
+      "description": "Elegant Anarkali suit with intricate embroidery.",
+      "rating": 4.8,
+      "image": "/images/Aarkali.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Long Maxi Dress",
+      "price": 1399,
+      "category": "Dresses",
+      "sizes": ["S", "M", "L"],
+      "inStock": true,
+      "description": "Full-length maxi dress with flared design.",
+      "rating": 4.3,
+      "image": "/images/max dress.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Chiffon Dupatta",
+      "price": 299,
+      "category": "Accessories",
+      "sizes": ["Free Size"],
+      "inStock": true,
+      "description": "Soft chiffon dupatta in pastel shades.",
+      "rating": 4.1,
+      "image": "/images/dupatta.png"
+    },
+    {
+      "id": 9,
+      "title": "High Waist Leggings",
+      "price": 499,
+      "category": "Bottom Wear",
+      "sizes": ["S", "M", "L", "XL"],
+      "inStock": true,
+      "description": "Stretchable high-waist leggings for everyday wear.",
+      "rating": 4.4,
+      "image": "/images/legging.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Silk Kurta Set",
+      "price": 1799,
+      "category": "Kurtis",
+      "sizes": ["M", "L", "XL"],
+      "inStock": false,
+      "description": "Silk kurta set with churidar and dupatta.",
+      "rating": 4.6,
+      "image": "/images/Kurta set.jpeg"
+    }
+  ]
+}
