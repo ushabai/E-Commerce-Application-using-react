@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+Pretty Gal - E-commerce Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Overview
+Pretty Gal is a responsive e-commerce web application built using React and Redux Toolkit.  
+It allows users to browse products, search by keywords, filter by categories, view product details, and manage a shopping cart.  
+The project includes user authentication (Login and Signup), cart management, and a clean, user-friendly interface to provide a smooth shopping experience.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- User Authentication: Signup and Login functionality  
+- Product Browsing with Category Filtering  
+- Product Search by Name  
+- Detailed Product View with Quantity Selector  
+- Add Products to Cart  
+- Remove Products or Clear Cart  
+- Pagination Support in Shop Page  
+- Cart Summary with Total Price Calculation  
+- Static Data Management from JSON File  
+- Simple Form Validations for Signup and Login  
+- About Us and Forgot Password Page  
+- Responsive and Clean UI
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Technologies Used
 
-### `npm run build`
+- React  
+- Redux Toolkit  
+- React Router DOM  
+- JavaScript 
+- HTML5 & CSS3  
+- JSON (for Sample Data)  
+- React Icons
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Advantages
 
-### `npm run eject`
+- Component-Based Architecture : for easy maintainability and scalability  
+- State Management with Redux Toolkit : to manage global state efficiently  
+- Client-Side Routing : using React Router for seamless page navigation  
+- Form Validation : to prevent invalid user inputs  
+- Pagination Support : improves performance by loading a limited number of items per page  
+- Reusable Components : (Product, Cart, Footer, Navbar) improve code reusability and structure  
+- Simple and easy-to-understand codebase, perfect for learning React and Redux  
+- Lightweight application with fast load times due to static data usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
